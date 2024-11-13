@@ -1,4 +1,4 @@
-# Skill Assisessment-Handwritten Digit Recognition using MLP
+# Handwritten Digit Recognition using MLP
 
 ## Aim :
 
